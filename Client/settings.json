@@ -1,0 +1,12 @@
+[
+  {
+    "Adresses": {
+      "AccuweatherBase": "http://dataservice.accuweather.com/",
+      "OpenweatherBase": "http://api.openweathermap.org/"
+    },
+    "ApiKeys": {
+      "Accuweather": "tPu12VeP5kubw9bG48KcG0NG4VHte3B1",
+      "Openweather": "9015bd5f8e19e8fb88ba2945b7f63aba"
+    }
+  }
+]
